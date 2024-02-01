@@ -1,4 +1,4 @@
-# Simple-Vanity-Checker 🚀
+# Simple-2-Digits-Vanity-Checker 🚀
 
 ## Setup
 
